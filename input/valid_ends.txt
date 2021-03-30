@@ -1,0 +1,28 @@
+España
+Spain
+Andalucía
+Canarias
+Islas Canarias
+Cantabria
+Catalunya
+Cataluña
+Galicia
+Galiza
+Islas Baleares
+La Rioja
+Navarra
+Euskadi
+País Vasco
+Aragón
+Castilla-La Mancha 
+Castilla y León
+Comunitat Valenciana
+Comunidad Valenciana
+Extremadura
+Comunidad de Madrid
+Región de Murcia
+Principado de Asturias
+Asturias
+Ceuta
+Melilla
+END

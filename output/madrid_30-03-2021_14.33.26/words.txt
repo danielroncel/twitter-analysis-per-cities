@@ -1,0 +1,10 @@
+madrid 15
+dia 6
+30 3
+gobierno 3
+turistas 3
+va 3
+navarra 2
+cuesta 2
+ser 2
+paco 2
