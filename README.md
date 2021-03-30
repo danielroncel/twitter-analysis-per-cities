@@ -25,6 +25,16 @@ There is defined a function called location_filter to identify the original city
 
 In the input folder there is also a file called valid_ends.txt. It is used to deal with the same problem: Finding the users location and make easier to find users from the same place. It is a file with the end of some account locations (such as 'España', 'Spain', 'Cantabria' and so on) to make easier the task.
 
+There is attached an example of an execution of the full notebook. The results are saved inside the output folder. Inside this folder, there a folder for execution. The same of the folder is of the form keyword1_keyword2_..._keywordN_DAY-MONTH-YEAR_HOUR.MINUTE.SECOND.jsonl, where the keywords are the words used to search tweets and the rest is the moment when the execution took place.
+
+Inside the folder you will find:
+	keyword1_keyword2_..._keywordN.jsonl: JSON file with the data of the retrieved tweets.
+	counter_location.txt: Number of tweets per city.
+	words.txt: Top words used in all cities.
+	bigrams.txt: Top bigrams used in all cities.
+	words_location: Top words used per city.
+	bigrams_location: Top bigrams used per city.
+
 ## Requirements
 
 * A Twitter developer account[2]
