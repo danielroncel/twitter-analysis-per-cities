@@ -59,5 +59,7 @@ Name and Surnames: Daniel Roncel Díaz
 
 ## References
 [1] https://developer.twitter.com/en/docs/tutorials/filtering-tweets-by-location
+
 [2] https://developer.twitter.com/en
+
 [3] Data retrieved from https://www.businessintelligence.info/varios/longitud-latitud-pueblos-espana.html
