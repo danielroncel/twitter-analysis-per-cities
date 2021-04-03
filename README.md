@@ -12,14 +12,14 @@ To do so, some problems need to be faced. One of the most importants is identify
 
 Users location has not a well defined format; locations are highly customizable. To clearly identify the users location, and remove those that do not correspond to the places we are interested or that do not correspond to any place, it is requested a csv file with the name of all the cities of the region. The one we are using is spain_cities.csv[3] (which includes the coordinates of the city for future projects). Below are some account locations found during the project:
 
-Murcia, España
-Planet Earth
-Barcelona
-Barcelona, Spain.
-Barcelona, Cataluña
-Barcelona, Catalunya
-Moralzarzal - Madrid - España
-Campillos(Malaga)
+* Murcia, España
+* Planet Earth
+* Barcelona
+* Barcelona, Spain.
+* Barcelona, Cataluña
+* Barcelona, Catalunya
+* Moralzarzal - Madrid - España
+* Campillos(Malaga)
 
 There is defined a function called location_filter to identify the original city with such different formats. Feel free to modify it.
 
