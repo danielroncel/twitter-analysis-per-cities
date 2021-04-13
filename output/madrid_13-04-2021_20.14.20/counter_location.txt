@@ -1,0 +1,33 @@
+Madrid 77
+Barcelona 12
+Valencia 7
+Córdoba 7
+Sevilla 3
+Salamanca 2
+Ciudad Real 2
+Leganés 2
+Móstoles 2
+Badajoz 2
+Cádiz 2
+San Bartolomé de Tirajana 2
+Corcubión 1
+Bilbao 1
+Getafe 1
+Arganda del Rey 1
+Logroño 1
+Murcia 1
+Oviedo 1
+Vigo 1
+Pozuelo 1
+Berriozar 1
+Moralzarzal 1
+Jumilla 1
+Fuenlabrada 1
+Palma 1
+Campaspero 1
+Almería 1
+Torrent 1
+Miengo 1
+Torrelodones 1
+Albacete 1
+Pontevedra 1
